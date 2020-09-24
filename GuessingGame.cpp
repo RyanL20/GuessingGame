@@ -11,7 +11,7 @@ int main() {
     int rnadomNum = 0;
     int randomNum = rand() * 100;
     cout << randomNum;
-  
+//Testing  
 
 
 }
